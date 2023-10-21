@@ -50,8 +50,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<a href="https://imgur.com/L78FC8V"><img src="https://i.imgur.com/L78FC8V.png" title="source: imgur.com" /></a></p>
-<p>
+<a href="https://imgur.com/s4tyQu4"><img src="https://i.imgur.com/s4tyQu4.png" title="source: imgur.com" /></a><p>
 4. Start with the Subscription/Resource group. Select the Resource group  you’d like to use or create a new one.
 </p>
 <br />

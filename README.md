@@ -57,7 +57,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+<a href="https://imgur.com/AIzq1Lp"><img src="https://i.imgur.com/AIzq1Lp.png" title="source: imgur.com" /></a>
 </p>
 <p>
 5. Under Instance details, name your VM (VM-1 for example) and select where you’d like it to be located. Some VM options aren’t available in every location.
@@ -66,7 +66,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+<a href="https://imgur.com/AIzq1Lp"><img src="https://i.imgur.com/AIzq1Lp.png" title="source: imgur.com" /></a>
 </p>
 <p>
 6. Select your Image (Operating system of your VM). For this tutorial, we’ll select and create a VM running Windows 10. Select Windows 10 Pro, Version 22H2 - x64 Gen 2.
@@ -74,15 +74,14 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-</p>
+<a href="https://imgur.com/AIzq1Lp"><img src="https://i.imgur.com/AIzq1Lp.png" title="source: imgur.com" /></a></p>
 <p>
 7. For the size, it depends on what your budget is and how fast you’d like it to be. Select the “standard_E2s_v3 - 2 cpus, 16 GiB Memory ($91.98/month). Remember to terminate your machine when not in use to avoid unnecessary charges. 
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+<a href="https://imgur.com/m06qNUe"><img src="https://i.imgur.com/m06qNUe.png" title="source: imgur.com" /></a>
 </p>
 <p>
 8. Create an Administrator account (allows you to log in from Microsoft Remote Desktop Connection).
@@ -90,7 +89,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+<a href="https://imgur.com/7wdNLEy"><img src="https://i.imgur.com/7wdNLEy.png" title="source: imgur.com" /></a>
 </p>
 <p>9. Select the licensing box. Once complete, click the “next: Disks” button (followed with next: Networking) to get to the Networking tab. By going through the tabs by clicking next, it will create a virtual network for you (an error will show if you automatically click on “Review + create”). Click “Review + create” on the networking tab.
 </p>

@@ -34,3 +34,86 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 1.  Navigate to the Virtual Machines page either by clicking on the  icon or using the search bar.
 </p>
 <br />
+
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+2. Click the create button (Select Azure Virtual Machine)
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+3. Once you’ve clicked the create button, the “create a virtual machine” page will appear. The “basics” tab includes subscription information, instance details, security type, image (type of OS you’d like your VM to run on, VM Architecture, size (how powerful of a machine you want, Inbound port rules, and Licensing. If you haven’t previously created a resource group, you can create one here too. 
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+4. Start with the Subscription/Resource group. Select the Resource group  you’d like to use or create a new one.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+5. Under Instance details, name your VM (VM-1 for example) and select where you’d like it to be located. Some VM options aren’t available in every location.
+
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+6. Select your Image (Operating system of your VM). For this tutorial, we’ll select and create a VM running Windows 10. Select Windows 10 Pro, Version 22H2 - x64 Gen 2.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+7. For the size, it depends on what your budget is and how fast you’d like it to be. Select the “standard_E2s_v3 - 2 cpus, 16 GiB Memory ($91.98/month). Remember to terminate your machine when not in use to avoid unnecessary charges. 
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+8. Create an Administrator account (allows you to log in from Microsoft Remote Desktop Connection).
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>9. Select the licensing box. Once complete, click the “next: Disks” button (followed with next: Networking) to get to the Networking tab. By going through the tabs by clicking next, it will create a virtual network for you (an error will show if you automatically click on “Review + create”). Click “Review + create” on the networking tab.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+10. The next page will confirm that you’d like to create a virtual machine. The validation for the VM has passed (if not, it will warn you of any errors). Review the charges and settings. If everything looks good, click the “Create” blue button at the bottom.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+  <img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
+</p>
+<p>
+11. A final window will populate and let you know when the machine is available. Please be patient—this may take a couple solid minutes. You now have a VM running Windows 10. See upcoming tutorials on how to use your VM.
+</p>
+<br />
+

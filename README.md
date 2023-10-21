@@ -28,8 +28,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <h2>VM Creation Steps</h2>
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-</p>
+<a href="https://imgur.com/jcFOneY"><img src="https://i.imgur.com/jcFOneY.png" title="source: imgur.com" /></a></p>
 <p>
 1.  Navigate to the Virtual Machines page either by clicking on the  icon or using the search bar.
 </p>
@@ -37,23 +36,21 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-</p>
+<a href="https://imgur.com/3O4joLI"><img src="https://i.imgur.com/3O4joLI.png" title="source: imgur.com" /></a></p>
 <p>
 2. Click the create button (Select Azure Virtual Machine)
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-</p>
+<a href="https://imgur.com/s4tyQu4"><img src="https://i.imgur.com/s4tyQu4.png" title="source: imgur.com" /></a></p>
 <p>
 3. Once you’ve clicked the create button, the “create a virtual machine” page will appear. The “basics” tab includes subscription information, instance details, security type, image (type of OS you’d like your VM to run on, VM Architecture, size (how powerful of a machine you want, Inbound port rules, and Licensing. If you haven’t previously created a resource group, you can create one here too. 
 </p>
 <br />
 
 <p>
-<a href="https://imgur.com/s4tyQu4"><img src="https://i.imgur.com/s4tyQu4.png" title="source: imgur.com" /></a></p>
+<a href="https://imgur.com/L78FC8V"><img src="https://i.imgur.com/L78FC8V.png" title="source: imgur.com" /></a></p>
 <p>
 4. Start with the Subscription/Resource group. Select the Resource group  you’d like to use or create a new one.
 </p>

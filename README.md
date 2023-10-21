@@ -12,3 +12,9 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 
 - Microsoft Azure (Virtual Machines/Compute)
 
+<h2>High-Level Deployment and Configuration Steps</h2>
+
+- Step 1
+- Step 2
+- Step 3
+- Step 4

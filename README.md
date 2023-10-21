@@ -96,17 +96,15 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-</p>
+<a href="https://imgur.com/HCoMJ4s"><img src="https://i.imgur.com/HCoMJ4s.png" title="source: imgur.com" /></a></p>
 <p>
 10. The next page will confirm that you’d like to create a virtual machine. The validation for the VM has passed (if not, it will warn you of any errors). Review the charges and settings. If everything looks good, click the “Create” blue button at the bottom.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-  <img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
-</p>
+<a href="https://imgur.com/ZPfcFRp"><img src="https://i.imgur.com/ZPfcFRp.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/C1S5XSY"><img src="https://i.imgur.com/C1S5XSY.png" title="source: imgur.com" /></a></p>
 <p>
 11. A final window will populate and let you know when the machine is available. Please be patient—this may take a couple solid minutes. You now have a VM running Windows 10. See upcoming tutorials on how to use your VM.
 </p>

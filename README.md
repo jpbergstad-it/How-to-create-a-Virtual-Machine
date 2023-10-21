@@ -59,8 +59,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<a href="https://imgur.com/AIzq1Lp"><img src="https://i.imgur.com/AIzq1Lp.png" title="source: imgur.com" /></a>
-</p>
+<a href="https://imgur.com/KWAEvqe"><img src="https://i.imgur.com/KWAEvqe.png" title="source: imgur.com" /></a></p>
 <p>
 5. Select your Image (Operating system of your VM). For this tutorial, we’ll select and create a VM running Windows 10. Select Windows 10 Pro, Version 22H2 - x64 Gen 2.
 </p>

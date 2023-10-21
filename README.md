@@ -57,7 +57,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <br />
 
 <p>
-<a href="https://imgur.com/AIzq1Lp"><img src="https://i.imgur.com/AIzq1Lp.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/L78FC8V"><img src="https://i.imgur.com/L78FC8V.png" title="source: imgur.com" /></a>
 </p>
 <p>
 5. Under Instance details, name your VM (VM-1 for example) and select where you’d like it to be located. Some VM options aren’t available in every location.

@@ -28,7 +28,7 @@ HOW TO CREATE A VIRTUAL MACHINE USING WINDOWS 10 IN MICROSOFT AZURE
 <h2>VM Creation Steps</h2>
 
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://imgur.com/jcFOneY)" height="80%" width="80%" alt="start page"/>
+<img src="https://imgur.com/jcFOneY" height="80%" width="80%" alt="start page"/>
 </p>
 <p>
 1.  Navigate to the Virtual Machines page either by clicking on the  icon or using the search bar.
